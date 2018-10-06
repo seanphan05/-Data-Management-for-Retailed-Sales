@@ -47,4 +47,4 @@ Parking
 •	Size
  
 
-![Alt text}()
+![Alt text}(https://github.com/seanphan05/-Data-Management-for-Retailed-Sales/blob/master/Model.PNG)
